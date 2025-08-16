@@ -1,2 +1,2 @@
-# Course-project
-Course project on implementation of Deep Image Prior paper. 
+# Self-project
+Self project on Image Denoising (Deep Image Prior paper)
